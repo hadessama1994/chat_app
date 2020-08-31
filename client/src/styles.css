@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(63, 63, 63);
+}
+
+.container { 
+  height: 400px;
+  
+  position: relative;
+  
+  
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.chat-bg{
+  background-color: rgb(243, 243, 243);
+  
+}
+
+.radius{
+  border-radius: 0;
+  
+}
+
+.chat{
+  border-top: 0px solid rgb(175, 175, 175);
+  border-right: 0px solid rgb(255, 255, 255);
+  border-left: 3px solid rgb(0, 140, 255);
+  background-color: rgb(255, 255, 255);
+}
+
