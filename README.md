@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/hadessama1994/chat_app)](https://github.com/hadessama1994/chat_app) 
+
+
 # Chat_app
 
 This is a node.js and react application to create a simple chat using the power of Socket.io
